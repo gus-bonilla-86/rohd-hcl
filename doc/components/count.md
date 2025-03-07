@@ -17,3 +17,8 @@ To count all ones just pass in the `bus` with `countOne` as `true`. By default, 
 ## Count Zero
 
 To count all zeros just pass in the `bus` with `countOne` as `false`.
+
+# Count Pattern
+A `CountPattern` will count the occurrence of `pattern` argument given within a given binary Logic `bus`.
+
+For example, given that `bus` has a value of `101101110`, and the `pattern` is `011`, the `CountPattern` will return that the `pattern '011'` has occurred twice. 

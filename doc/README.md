@@ -27,7 +27,7 @@ Some in-development items will have opened issues, as well. Feel free to create 
   - Find N'th pattern from the start/end
 - Count
   - [Count bit occurrence](./components/count.md)
-  - Count pattern occurrence
+  - [Count pattern occurrence](./components/count.md#count-pattern)
 - Detection
   - [Edge detection](./components/edge_detector.md)
 - Sort
